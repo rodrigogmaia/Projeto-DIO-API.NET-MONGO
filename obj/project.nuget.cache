@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Etjupvb6DMqKO708Fg9EbpGz8Jj6syGbj9uM0hnG1l+h3fMR4vBknxNp0QM/NEj5J1anHGa6Pb+Xlu0LAyPjqw==",
+  "dgSpecHash": "dcx+D2IjBapIdwR+Vm2qgCF8ZnB+V6/BbK8RYTv9Oq8iR1TzaaC1nEiDr5aqW3rynAqWAhHJBr1x+rbGi6hQKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodri\\dotnet\\Api\\Api.csproj",
+  "projectFilePath": "c:\\Users\\rodri\\dotnet\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
